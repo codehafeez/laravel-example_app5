@@ -14,7 +14,7 @@ php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-example_app4/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-example_app5/main/Screenshots/Output-01.png)
 
 
 ## 🔗 www.codehafeez.com
